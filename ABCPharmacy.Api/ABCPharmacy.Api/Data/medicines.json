@@ -1,0 +1,35 @@
+[
+  {
+    "Id": 1,
+    "FullName": "Paracetamol 650",
+    "Notes": "After food",
+    "ExpiryDate": "2027-12-30T00:00:00",
+    "Quantity": 40,
+    "Price": 55.50,
+    "Brand": "Cipla",
+    "IsLowStock": false,
+    "IsExpiringSoon": false
+  },
+  {
+    "Id": 3,
+    "FullName": "ABC",
+    "Notes": "sdsdsd",
+    "ExpiryDate": "2026-07-22T00:00:00",
+    "Quantity": 1,
+    "Price": 777,
+    "Brand": "dddd",
+    "IsLowStock": true,
+    "IsExpiringSoon": true
+  },
+  {
+    "Id": 4,
+    "FullName": "Pefff",
+    "Notes": "dcdcdcdc",
+    "ExpiryDate": "2026-07-30T00:00:00",
+    "Quantity": 2,
+    "Price": 3333,
+    "Brand": "ddfdf",
+    "IsLowStock": true,
+    "IsExpiringSoon": true
+  }
+]

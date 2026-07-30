@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Pritam Singh\\ABCPharmacy.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA6FA51-988E-45A5-A239-35625A43789D}|ABCPharmacy.Api\\ABCPharmacy.Api.csproj|c:\\pritam singh\\abcpharmacy.api\\abcpharmacy.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA6FA51-988E-45A5-A239-35625A43789D}|ABCPharmacy.Api\\ABCPharmacy.Api.csproj|solutionrelative:abcpharmacy.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA6FA51-988E-45A5-A239-35625A43789D}|ABCPharmacy.Api\\ABCPharmacy.Api.csproj|c:\\pritam singh\\abcpharmacy.api\\abcpharmacy.api\\services\\medicineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA6FA51-988E-45A5-A239-35625A43789D}|ABCPharmacy.Api\\ABCPharmacy.Api.csproj|solutionrelative:abcpharmacy.api\\services\\medicineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA6FA51-988E-45A5-A239-35625A43789D}|ABCPharmacy.Api\\ABCPharmacy.Api.csproj|c:\\pritam singh\\abcpharmacy.api\\abcpharmacy.api\\models\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA6FA51-988E-45A5-A239-35625A43789D}|ABCPharmacy.Api\\ABCPharmacy.Api.csproj|solutionrelative:abcpharmacy.api\\models\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA6FA51-988E-45A5-A239-35625A43789D}|ABCPharmacy.Api\\ABCPharmacy.Api.csproj|c:\\pritam singh\\abcpharmacy.api\\abcpharmacy.api\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA6FA51-988E-45A5-A239-35625A43789D}|ABCPharmacy.Api\\ABCPharmacy.Api.csproj|solutionrelative:abcpharmacy.api\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA6FA51-988E-45A5-A239-35625A43789D}|ABCPharmacy.Api\\ABCPharmacy.Api.csproj|c:\\pritam singh\\abcpharmacy.api\\abcpharmacy.api\\controllers\\medicinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA6FA51-988E-45A5-A239-35625A43789D}|ABCPharmacy.Api\\ABCPharmacy.Api.csproj|solutionrelative:abcpharmacy.api\\controllers\\medicinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA6FA51-988E-45A5-A239-35625A43789D}|ABCPharmacy.Api\\ABCPharmacy.Api.csproj|c:\\pritam singh\\abcpharmacy.api\\abcpharmacy.api\\data\\sales.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2EA6FA51-988E-45A5-A239-35625A43789D}|ABCPharmacy.Api\\ABCPharmacy.Api.csproj|solutionrelative:abcpharmacy.api\\data\\sales.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA6FA51-988E-45A5-A239-35625A43789D}|ABCPharmacy.Api\\ABCPharmacy.Api.csproj|c:\\pritam singh\\abcpharmacy.api\\abcpharmacy.api\\data\\medicines.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2EA6FA51-988E-45A5-A239-35625A43789D}|ABCPharmacy.Api\\ABCPharmacy.Api.csproj|solutionrelative:abcpharmacy.api\\data\\medicines.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 205,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MedicineController.cs",
+              "DocumentMoniker": "C:\\Pritam Singh\\ABCPharmacy.Api\\ABCPharmacy.Api\\Controllers\\MedicineController.cs",
+              "RelativeDocumentMoniker": "ABCPharmacy.Api\\Controllers\\MedicineController.cs",
+              "ToolTip": "C:\\Pritam Singh\\ABCPharmacy.Api\\ABCPharmacy.Api\\Controllers\\MedicineController.cs",
+              "RelativeToolTip": "ABCPharmacy.Api\\Controllers\\MedicineController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAuwC4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T15:19:04.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\Pritam Singh\\ABCPharmacy.Api\\ABCPharmacy.Api\\Models\\Sale.cs",
+              "RelativeDocumentMoniker": "ABCPharmacy.Api\\Models\\Sale.cs",
+              "ToolTip": "C:\\Pritam Singh\\ABCPharmacy.Api\\ABCPharmacy.Api\\Models\\Sale.cs",
+              "RelativeToolTip": "ABCPharmacy.Api\\Models\\Sale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T15:15:41.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Medicine.cs",
+              "DocumentMoniker": "C:\\Pritam Singh\\ABCPharmacy.Api\\ABCPharmacy.Api\\Models\\Medicine.cs",
+              "RelativeDocumentMoniker": "ABCPharmacy.Api\\Models\\Medicine.cs",
+              "ToolTip": "C:\\Pritam Singh\\ABCPharmacy.Api\\ABCPharmacy.Api\\Models\\Medicine.cs",
+              "RelativeToolTip": "ABCPharmacy.Api\\Models\\Medicine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T15:11:03.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Pritam Singh\\ABCPharmacy.Api\\ABCPharmacy.Api\\Program.cs",
+              "RelativeDocumentMoniker": "ABCPharmacy.Api\\Program.cs",
+              "ToolTip": "C:\\Pritam Singh\\ABCPharmacy.Api\\ABCPharmacy.Api\\Program.cs",
+              "RelativeToolTip": "ABCPharmacy.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T15:17:28.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MedicineService.cs",
+              "DocumentMoniker": "C:\\Pritam Singh\\ABCPharmacy.Api\\ABCPharmacy.Api\\Services\\MedicineService.cs",
+              "RelativeDocumentMoniker": "ABCPharmacy.Api\\Services\\MedicineService.cs",
+              "ToolTip": "C:\\Pritam Singh\\ABCPharmacy.Api\\ABCPharmacy.Api\\Services\\MedicineService.cs",
+              "RelativeToolTip": "ABCPharmacy.Api\\Services\\MedicineService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAYwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T15:16:16.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "sales.json",
+              "DocumentMoniker": "C:\\Pritam Singh\\ABCPharmacy.Api\\ABCPharmacy.Api\\Data\\sales.json",
+              "RelativeDocumentMoniker": "ABCPharmacy.Api\\Data\\sales.json",
+              "ToolTip": "C:\\Pritam Singh\\ABCPharmacy.Api\\ABCPharmacy.Api\\Data\\sales.json",
+              "RelativeToolTip": "ABCPharmacy.Api\\Data\\sales.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-30T15:17:04.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "medicines.json",
+              "DocumentMoniker": "C:\\Pritam Singh\\ABCPharmacy.Api\\ABCPharmacy.Api\\Data\\medicines.json",
+              "RelativeDocumentMoniker": "ABCPharmacy.Api\\Data\\medicines.json",
+              "ToolTip": "C:\\Pritam Singh\\ABCPharmacy.Api\\ABCPharmacy.Api\\Data\\medicines.json",
+              "RelativeToolTip": "ABCPharmacy.Api\\Data\\medicines.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-30T15:15:15.651Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
