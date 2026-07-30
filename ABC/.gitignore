@@ -1,6 +1,24 @@
-echo "# Visual Studio files" > .gitignore
-echo ".vs/" >> .gitignore
+# 1. Create .gitignore to skip the problematic .vs folder and other unnecessary files
+echo ".vs/" > .gitignore
 echo "bin/" >> .gitignore
 echo "obj/" >> .gitignore
 echo "node_modules/" >> .gitignore
 echo "dist/" >> .gitignore
+
+# 2. Clear any previously staged files (to remove the error-causing ones)
+git reset
+
+# 3. Add all your project files (the .gitignore will protect you)
+git add .
+
+# 4. Commit your files with a message
+git commit -m "Initial commit with Angular and .NET projects"
+
+# 5. Connect your local folder to your GitHub repository
+git remote add origin https://github.com/PritamSingh11297/abc-pharmacy-spa-dotnet-angular.git
+
+# 6. Rename your default branch to 'main' (matching GitHub)
+git branch -M main
+
+# 7. Push your code to GitHub
+git push -u origin main
